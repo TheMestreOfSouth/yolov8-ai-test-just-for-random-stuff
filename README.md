@@ -24,7 +24,7 @@ Para executar este projeto localmente, é necessário ter o Python instalado e a
 
 ## Resultados
 
-Após a execução, o script gera automaticamente uma pasta de saída em 'runs/detect/predict' contendo as imagens analisadas com as marcações de detecção em tempo real.
+Após a execução, o script gera automaticamente uma pasta de saída em 'runs/detect/predict' contendo as imagens analisadas com as marcações de detecção em tempo real
 
 ---
 Desenvolvido como parte de estudos em Inteligência Artificial e Visão Computacional.
